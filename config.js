@@ -26,20 +26,20 @@ module.exports = {
     }
   ],
   author: {
-    name: "Ian Naldo",
+    name: "Diane Roger Naldo",
     photo: "/photo.jpg",
     bio:
-      "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+      "I'm an advocate of lifting the developer technical skills standards here in the Philippines, so I created this blog site that will teach Filipino developers in our own native language.",
     contacts: {
-      email: "",
-      facebook: "#",
-      telegram: "#",
-      twitter: "#",
-      github: "#",
+      email: "dianenaldo@gmail.com",
+      facebook: "diane.naldo",
+      telegram: "",
+      twitter: "diane_naldo",
+      github: "dianenaldo",
       rss: "",
       vkontakte: "",
-      linkedin: "#",
-      instagram: "#",
+      linkedin: "",
+      instagram: "",
       line: "",
       gitlab: "",
       weibo: ""
