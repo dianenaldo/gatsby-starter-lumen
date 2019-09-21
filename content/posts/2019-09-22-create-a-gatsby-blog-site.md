@@ -1,7 +1,7 @@
 ---
 template: post
 title: Create a Gatsby Blog Site
-slug: gatsby-blog-site
+slug: /post/gatsby-blog-site/
 draft: false
 date: 2019-09-21T15:06:58.383Z
 description: >-
