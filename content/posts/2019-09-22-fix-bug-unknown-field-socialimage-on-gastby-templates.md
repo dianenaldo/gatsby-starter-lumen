@@ -5,8 +5,8 @@ slug: /post/bug-unknown-field-social-image
 draft: false
 date: 2019-09-21T18:55:17.304Z
 description: >-
-  Nakita ako ng bug sa Gatsby post-template.js at page-template.js graphql
-  queries neto, papanu eto ayusin sasagutin.
+  May Bug sa Gatsby post-template.js at page-template.js graphql queries, papanu
+  ba eto ayusin?
 category: Bug Fixes
 tags:
   - Gatsby
