@@ -2,7 +2,7 @@
 template: post
 title: Create a Gatsby Blog Site
 slug: gatsby-blog-site
-draft: true
+draft: false
 date: 2019-09-21T15:06:58.383Z
 description: >-
   Anu nga ba ang Gatsby? at papanu gumawa ng blog site gamit eto? bibigyan natin
