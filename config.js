@@ -21,7 +21,7 @@ module.exports = {
     name: "Diane Roger Naldo",
     photo: "/photo.jpg",
     bio:
-      "I'm an advocate of lifting the developer technical skills standards here in the Philippines, so I created this blog site that will teach Filipino developers in our own native language.",
+      "An advocate of lifting the developer technical skills here in the Philippines and have fun while doing it.",
     contacts: {
       email: "dianenaldo@gmail.com",
       facebook: "diane.naldo",
