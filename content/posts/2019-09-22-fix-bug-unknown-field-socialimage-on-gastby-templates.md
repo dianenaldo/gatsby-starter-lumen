@@ -27,19 +27,20 @@ here the graphql query looks like with the socialImage field in it:
 
 > src/templates/page-template.js
 
-```
-export const query = graphql`
+``export const query = graphql`
    query PageBySlug($slug: String!) {
      markdownRemark(fields: { slug: { eq: $slug } }) {
         id
         html
-         frontmatter {                      title
+         frontmatter {           ``\
+`           title
            date
-           description                      socialImage                }
+           description           `\
+`           socialImage       `\
+``         }
     }
 }
-`;
-```
+`;``
 
 I deleted the **socialImage** field from this query and it fix the bug.
 
