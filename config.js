@@ -1,11 +1,11 @@
 "use strict";
 
 module.exports = {
-  url: "https://lumen.netlify.com",
+  url: "https://akoy.dev",
   pathPrefix: "/",
-  title: "Blog by John Doe",
+  title: "Blog by Diane Roger Naldo",
   subtitle:
-    "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+    "An advocate of lifting the developer technical skills here in the Philippines and also have fun while doing it.",
   copyright: "© All rights reserved.",
   disqusShortname: "",
   postsPerPage: 4,
