@@ -6,7 +6,7 @@ draft: false
 date: 2019-09-21T18:55:17.304Z
 description: >-
   May Bug sa Gatsby post-template.js at page-template.js graphql queries, papanu
-  ba eto ayusin?
+  ba to ayusin?
 category: Bug Fixes
 tags:
   - Gatsby
